@@ -1,0 +1,38 @@
+.footertext {
+	color: white;
+}
+body {
+	margin-bottom: 80px;
+}
+
+.author {
+	position: relative;
+	text-align: center;
+	font-size: 10px;
+	color: grey;
+	font-weight: bolder;
+}
+
+.col-sm2 {
+	margin: 0 20px;
+}
+
+.page-header {
+	margin-top: 0;
+}
+
+.panel-body {
+	padding-top: 0;
+}
+
+.dates {
+	font-size: 10px;
+	color: grey;
+	position: relative;
+	bottom: 3px;
+}
+
+.featureImg {
+	width: 100%;
+	margin-bottom: 15px;
+}
